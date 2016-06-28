@@ -4,7 +4,6 @@ lmlicenses.wip4.adobe.com
 lm.licenses.adobe.com
 activate.adobe.com
 practivate.adobe.com
-localhost
 win10.ipv6.microsoft.com
 www.msftncsi.com
 geover-prod.do.dsp.mp.microsoft.com
@@ -93,14 +92,12 @@ r8---sn-n8v7znee.c.pack.google.com
 tools.google.com
 update.utorrent.com
 genuine.microsoft.com
-Photoshop
 na1r.services.adobe.com
 hlrcv.stage.adobe.com
 lmlicenses.wip4.adobe.com
 lm.licenses.adobe.com
 activate.adobe.com
 practivate.adobe.com
-Antibotnet
 vortex.data.microsoft.com
 vortex-win.data.microsoft.com
 telecommand.telemetry.microsoft.com
@@ -208,7 +205,6 @@ i1.services.social.microsoft.com.nsatc.net
 feedback.windows.com
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
-Skype
 live.rads.msn.com
 ads1.msn.com
 static.2mdn.net
@@ -230,9 +226,9 @@ aka-cdn-ns.adtech.de
 secure.flashtalking.com
 adnexus.net
 adnxs.com
-*.rad.msn.com
-*.msads.net
-*.msecn.net
+rad.msn.com
+msads.net
+msecn.net
 vortex.data.microsoft.com
 vortex-win.data.microsoft.com
 telecommand.telemetry.microsoft.com
@@ -253,6 +249,9 @@ services.wes.df.telemetry.microsoft.com
 sqm.df.telemetry.microsoft.com
 telemetry.microsoft.com
 watson.ppe.telemetry.microsoft.com
+settings-ssl.xboxlive.com
+insiderhub.microsoft.com
+
 telemetry.appex.bing.net
 telemetry.urs.microsoft.com
 telemetry.appex.bing.net:443
@@ -290,7 +289,7 @@ genuine.microsoft.com
 203-trouter-cus-a.drip.trouter.io
 pip.203.trouter-cus-a.drip.trouter.io
 client.wns.windows.com
-*.wns.windows.com
+wns.windows.com
 telemetry.nvidia.com
 download.gfe.nvidia.com
 gfwsl.geforce.com
@@ -309,7 +308,7 @@ me.kis.scr.kaspersky-labs.com
 ie.kis.scr.kaspersky-labs.com
 gc.kis.scr.kaspersky-labs.com
 ff.kis.scr.kaspersky-labs.com
-*.kis.scr.kaspersky-labs.com
+kis.scr.kaspersky-labs.com
 kis.scr.kaspersky-labs.com
 ksn-crypto-kas-geo.kaspersky-labs.com
 ksn-crypto-stat-geo.kaspersky-labs.com
@@ -319,14 +318,12 @@ ksn-crypto-tcert-geo.kaspersky-labs.com
 ksn-crypto-file-geo.kaspersky-labs.com
 ksn-crypto-url-geo.kaspersky-labs.com
 dnl-09.geo.kaspersky.com
-*.geo.kaspersky.com
-*.kaspersky.com
+kaspersky.com
 ksn-crypto-verdict-geo.kaspersky-labs.com
 ksn-kddi.kaspersky-labs.com
 ksn-tboot-1.kaspersky-labs.com
 ksn4-12.kaspersky-labs.com
 ssw.live.com
-*.nvidia.com
 www.nvidia.com
 services.gfe.nvidia.com
 gfwsl.geforce.com
@@ -352,6 +349,9 @@ windowsupdate.com
 api.steampowered.com
 images.akamai.steamusercontent.com
 cdn.akamai.steamstatic.com
+clients.l.google.com
+login.live.com
+
 steamcommunity-a.akamaihd.net
 cdn.store.steampowered.com
 ocsp.msocsp.com
